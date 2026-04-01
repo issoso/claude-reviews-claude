@@ -1,4 +1,4 @@
-> 🌐 **语言**: [English →](README_EN.md) | 中文
+> 🌐 **语言**: [English →](README_EN.md) | 简体中文 | [繁體中文 →](README_TW.md)
 
 # 🪞 Claude 眼中的老己
 

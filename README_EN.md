@@ -1,4 +1,4 @@
-> 🌐 **Language**: [中文版 →](README.md) | English
+> 🌐 **Language**: [中文版 →](README.md) | [繁體中文 →](README_TW.md) | English
 
 # 🪞 Claude Reviews Claude Code
 
